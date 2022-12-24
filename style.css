@@ -164,6 +164,7 @@ article {
 }
 
 article h1 {
+    font-family: var(--fonte-android);
     color: rgba(2, 62, 2, 0.767);
     padding: 20px 0px;
 
